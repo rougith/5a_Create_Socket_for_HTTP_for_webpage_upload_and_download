@@ -18,7 +18,7 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 ## Program 
 Developed by: Rougith D
 register no: 212225220087
-##Client
+## Client
 ```
 import socket
 
@@ -45,7 +45,7 @@ else:
 
 s.close()
 ```
-##Server.py
+## Server
 ```
 import socket
 
